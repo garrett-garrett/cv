@@ -86,6 +86,7 @@ iframe {
   iframe {
     width: 720px;
   }
+}
 
 @media (max-width: 480px) {
   iframe {
