@@ -53,6 +53,7 @@ nav ul li a.active {
   width: 200px;
   height: 580px;
   margin-right: 40px;
+  margin-left: 60px;
   overflow: hidden;
 }
 
