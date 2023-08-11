@@ -75,25 +75,21 @@ nav ul li a.active {
   margin-bottom: 10px;
 }
 
-.next-page {
-  display: inline-block;
-  background-color: #333;
-  color: #fff;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 5px;
+.pagination {
+  display: flex;
+  justify-content: center;
   margin-top: 20px;
+  margin-bottom: 40px;
 }
 
-.previous-page {
+.pagination a {
   display: inline-block;
   background-color: #333;
   color: #fff;
   padding: 10px 20px;
   text-decoration: none;
   border-radius: 5px;
-  margin-top: 20px;
-  margin-right: 10px;
+  margin: 0 10px; /* Add some spacing between buttons */
 }
 
 footer {
